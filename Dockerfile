@@ -1,1 +1,1 @@
-Hai noroc sa traim!
+Hai noroc, sa traim!
