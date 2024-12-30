@@ -1,1 +1,3 @@
-Hai noroc, sa traim!
+FROM python:least
+
+COPY hello.py /app
